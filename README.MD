@@ -158,7 +158,6 @@ MIT License — free to use, modify, and distribute with attribution.
 Made with ❤️ by [Mr.Tony]
 
 - GitHub: [github.com/mr-tony-1412](https://github.com/mr-tony-1412)
-- Telegram: [Grey Hat Community](https://t.me/+Q_K4_AHwxOVhZTk1)
 
 ---
 
